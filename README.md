@@ -1,7 +1,7 @@
 # UniAppShopPro
  基于Java SpringBoot和UniApp的商城小程序
 
-演示视频链接：https://live.csdn.net/v/284021
+演示视频链接：https://www.bilibili.com/video/BV1Po4y1B7Gg/
 
 整个项目实现的功能
 
